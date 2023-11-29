@@ -433,3 +433,7 @@ footer {
   gap: 16px;
 }
 
+.link-foot:hover,
+.link-foot:focus{
+background-color: #31d0aa;
+}
